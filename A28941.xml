@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the philosophical books and tracts written by the Honourable Robert Boyle, Esq. ; together with the order or time wherein each of them hath been publish'd respectively ; to which is added,  A catalogue of the theological books, written by the same author.</title>
+            <author>Boyle, Robert, 1627-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28941</idno>
+            <idno type="STC">Wing B3928</idno>
+            <idno type="STC">ESTC R11831</idno>
+            <idno type="EEBO-CITATION">11688039</idno>
+            <idno type="OCLC">ocm 11688039</idno>
+            <idno type="VID">48186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48186)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 15:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the philosophical books and tracts written by the Honourable Robert Boyle, Esq. ; together with the order or time wherein each of them hath been publish'd respectively ; to which is added,  A catalogue of the theological books, written by the same author.</title>
+                  <author>Boyle, Robert, 1627-1691.</author>
+               </titleStmt>
+               <extent>[2], 3-20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones,</publisher>
+                  <pubPlace>In the Savoy :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Film lacks: Catalogue of the theological books.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boyle, Robert, 1627-1691 --  Bibliography.</term>
+               <term>Philosophy --  Bibliography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48186:1"/>
+            <pb facs="tcp:48186:1" rendition="simple:additions"/>
+            <p>A CATALOGUE OF THE PHILOSOPHICAL Books and Tracts, Written by the Honourable <hi>ROBERT BOYLE</hi> Eſq; Together with the ORDER or TIME, Wherein Each of them hath been publiſh'd reſpectively. To which is added A CATALOGUE Of the Theological Books, Written by the ſame AUTHOR.</p>
+            <p>In the <hi>Savoy,</hi> Printed by <hi>Edw. Jones.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:48186:2"/>
+            <pb n="3" facs="tcp:48186:2"/>
+            <head>A CATALOGUE OF THE PHILOSOPHICAL Books and Tracts, Written by the Honourable <hi>ROBERT BOYLE</hi> Eſquire.</head>
+            <list>
+               <head>Advertiſements of the Publiſher.</head>
+               <item>1. <hi>Many ingenious Perſons, eſpecially Strangers, having preſſingly endeavour'd to procure a Catalogue of the Honour<g ref="char:EOLhyphen"/>able Mr.</hi> Boyles <hi>Writings; and the Author himſelf being not at leaſure to draw one up; 'twas thought it might be ſome ſatisfaction to thoſe Inquirers, if I publiſh'd the following Liſt, as it was drawn out, for his own uſe, of the Phi<g ref="char:EOLhyphen"/>loſophical Tranſactions, as well as the
+<pb n="4" facs="tcp:48186:3"/>Printed Volumes, by an ingenious French Phyſician, ſtudious of the Au<g ref="char:EOLhyphen"/>thors Writings, ſome of which he Tranſlated and Printed in his own Language.</hi>
+               </item>
+               <item>2. <hi>The Letter</hi> L. <hi>affixt in the Margin, denotes the Book related to, to have been Tranſlated, and Publiſh'd in the Latin Tongue alſo. Several of the reſt having likewiſe been Tranſlated into Latin, but not yet Publiſh'd.</hi>
+               </item>
+               <item>3. <hi>Thoſe that have an Aſterisk prefix'd to them, came forth without the Authors Name, thô 'tis not doubted, but they are His.</hi>
+               </item>
+               <item>4. <hi>Divers of thoſe mention'd as drawn out of the Tranſactions, did proba<g ref="char:EOLhyphen"/>bly come abroad in Latin; ſome of the Tranſactions themſelves having been publiſh'd in that Language.</hi>
+               </item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> NEw Experiments Phyſico-Mecha<g ref="char:EOLhyphen"/>nical, touching the Spring and Weight of the Air, and its Effects, (made for the moſt part in a new Pneu<g ref="char:EOLhyphen"/>matical Engine) written by way of Letter to the Right Honourable <hi>Charles</hi> Lord Viſcount of <hi>Dungarvan,</hi> Eldeſt Son to the Earl of <hi>Cork,</hi> by the Honourable <hi>Robert Boyle,</hi> Eſquire.</p>
+            <pb n="5" facs="tcp:48186:3"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> A Defence of the Doctrine, touching the Spring and Weight of the Air, pro<g ref="char:EOLhyphen"/>pos'd by the Author in his New Phy<g ref="char:EOLhyphen"/>ſico-Mechanical Experiments; againſt the Objections of <hi>Franciſcus Linus,</hi> wherewith the Objectors <hi>Funicular Hy<g ref="char:EOLhyphen"/>potheſis</hi> is alſo examin'd.</p>
+            <p>An Examen of Mr. <hi>Tho. Hobbes</hi>'s <hi>Dia<g ref="char:EOLhyphen"/>logus Phyſicus de Natura Aeris,</hi> as far as it concerns the Authors Book of New Experiments touching the Spring of the Air; with an Appendix touching Mr. <hi>Hobbes</hi>'s Doctrine of Fluidity and Firmneſs.</p>
+            <p>Theſe three together in a Volume in 4<hi rend="sup">o</hi>, being a ſecond Edition; the firſt at <hi>Oxford</hi> 1662, had been pub<g ref="char:EOLhyphen"/>liſh'd <hi>Anno</hi> 1660. The two others at <hi>London</hi> 1662, had been publiſh'd <hi>Anno</hi> 1661.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> The Sceptical Chymiſt, <hi>&amp;c.</hi> 1661.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Phyſiological Eſſays, or <hi>Tentamina,</hi> Written and Collected upon divers Times and Occaſions, with an Hiſtory of Fluidity and Firmneſs in 4<hi rend="sup">o</hi>. 1662.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> An Experimental Hiſtory of Co<g ref="char:EOLhyphen"/>lours begun, 8<hi rend="sup">o</hi>. 1663.</p>
+            <pb n="6" facs="tcp:48186:4"/>
+            <p>Some Conſiderations touching the uſefulneſs of Experimental Natural Phi<g ref="char:EOLhyphen"/>loſophy, propos'd in a familiar Diſcourſe to a Friend, by way of Invitation to the ſtudy of it; a ſecond Edition 4<hi rend="sup">o</hi>. <hi>Oxford</hi> 1664. The firſt had been publiſh'd 1663.</p>
+            <p>Of the Uſefulneſs of Natural Philoſo<g ref="char:EOLhyphen"/>phy, the ſecond Part; the firſt Section, of its Uſefulneſs to Phyſick, with an <hi>Appendix</hi> to this firſt Section of the ſe<g ref="char:EOLhyphen"/>cond Part, 4<hi rend="sup">o</hi>. 1669.</p>
+            <p>Of the Uſefulneſs of Experimental Natural Philoſophy, <hi>&amp;c.</hi> the ſecond Tome, containing the later Section of the ſecond Part, 4<hi rend="sup">o</hi>. <hi>Oxford</hi> 1671.</p>
+            <p>The firſt Volume of theſe Three Books contains five Eſſays.</p>
+            <p>The firſt, Of the Uſefulneſs, <hi>&amp;c.</hi> Prin<g ref="char:EOLhyphen"/>cipally as it relates to the Mind of Man.</p>
+            <p>The ſecond, A Continuation of the former.</p>
+            <p>The third, A further Continuation.</p>
+            <p>The fourth, A requiſite Digreſſion concerning thoſe, who would exclude the Deity from intermedling with Matter.</p>
+            <p>In the fifth, The Diſcourſe, inter<g ref="char:EOLhyphen"/>rupted
+<pb n="7" facs="tcp:48186:4"/>by the late Digreſſion, is reſum'd and concluded.</p>
+            <p>The Second Volume contains like<g ref="char:EOLhyphen"/>wiſe five Eſſays.</p>
+            <p>The firſt, Of the Uſefulneſs, <hi>&amp;c.</hi> As to the Phyſiological part of Phyſick.</p>
+            <p>The ſecond, As to the Pathological part of Phyſick.</p>
+            <p>The third, As to the Semeiotical part of Phyſick.</p>
+            <p>The fourth, As to the Hygieinal part of Phyſick.</p>
+            <p>The fifth, As to the Therapeutical part of Phyſick, in 20 Chapters.</p>
+            <p>The Third Volume contains ſix Eſſays.</p>
+            <p>The firſt, General Conſiderations a<g ref="char:EOLhyphen"/>bout the Means, whereby Experimental Philoſophy may become uſeful to Hu<g ref="char:EOLhyphen"/>man Life.</p>
+            <p>The ſecond, Of the uſefulneſs of Ma<g ref="char:EOLhyphen"/>thematicks to Natural Philoſophy.</p>
+            <p>The third, Of the uſefulneſs of Me<g ref="char:EOLhyphen"/>chanical Diſciplines to Natural Philo<g ref="char:EOLhyphen"/>ſophy.</p>
+            <pb n="8" facs="tcp:48186:5"/>
+            <p>The fourth, That the Goods of Man<g ref="char:EOLhyphen"/>kind may be much encreas'd by the Na<g ref="char:EOLhyphen"/>turaliſts inſight into Trades, with an Appendix.</p>
+            <p>The fifth, Of doing by Phyſical Know<g ref="char:EOLhyphen"/>ledge, what is wont to require Manual Skill.</p>
+            <p>The ſixth, Of Mens great Ignorance of the Uſes of Natural Things.</p>
+            <p>An Experimental Hiſtory of Cold, and ſome Diſcourſes Concerning New Thermometrical Experiments, and Thoughts about the Doctrine of Anti<g ref="char:EOLhyphen"/>periſtaſis; with</p>
+            <p>An Examen of Mr. <hi>Hobbes</hi>'s Doctrine touching Cold, a ſecond Edition, 4<hi rend="sup">o</hi> 1665.</p>
+            <p>Attempts of a way to convey Liquors immediately into the Maſs of Blood, communicated in the Philoſophical Tranſactions of <hi>December</hi> the 4th. 1665.</p>
+            <p>Obſervations and Experiments upon the Barometer or Ballance of Air, in<g ref="char:EOLhyphen"/>vented, directed, and begun, <hi>Anno</hi> 1659. communicated to Dr. <hi>Beal</hi> that continu'd them, and mention'd in the Tranſacti<g ref="char:EOLhyphen"/>ons of <hi>February</hi> the 12th, and <hi>March</hi> the 12th. 1666.</p>
+            <pb n="9" facs="tcp:48186:5"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Hydroſtatical Paradoxes made out by new Experiments, for the moſt part Phy<g ref="char:EOLhyphen"/>ſical and eaſie, occaſion'd by Monſieur <hi>Paſchal</hi>'s Tract of the <hi>Equilibrium</hi> of Li<g ref="char:EOLhyphen"/>quors, and of the weight of the Air, 1666.</p>
+            <p>An account of an Earth-quake near <hi>Oxford,</hi> and the Concomitants thereof, communicated in the Philoſophical Tranſactions of <hi>April</hi> the 2d. 1666.</p>
+            <p>New Obſervations and Directions about the Barometer, in the ſame.</p>
+            <p>General Heads for a Natural Hiſtory of a Country, great or ſmall, commu<g ref="char:EOLhyphen"/>nicated in the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> The Origine of Forms and Qualities illuſtrated by Conſiderations and Expe<g ref="char:EOLhyphen"/>riments, in two Parts, 8<hi rend="sup">o</hi>. 1666.</p>
+            <p>A way of preſerving Birds taken out of the Egg, and other ſmall <hi>Faetus</hi>'s, communicated in the Philoſophical Tranſactions of <hi>May</hi> 7th. 1666.</p>
+            <p>An Account of a new kind of Baroſ<g ref="char:EOLhyphen"/>cope, which may be call'd Statical, and of ſome advantages and conveniencies it hath above the Mercurial, communi<g ref="char:EOLhyphen"/>cated in the Philoſophical Tranſactions of <hi>July</hi> the 2d. 1666.</p>
+            <p>A new Frigorific Experiment, ſhew<g ref="char:EOLhyphen"/>ing how a conſiderable degree of Cold
+<pb n="10" facs="tcp:48186:6"/>may be ſuddenly produc'd, without the help of Snow, Ice, Hail, Wind or Nitre, and that at any time of the year, com<g ref="char:EOLhyphen"/>municated in the Philoſophical Tranſ<g ref="char:EOLhyphen"/>actions of <hi>July</hi> 18th. 1666.</p>
+            <p>Tryals propos'd to Dr. <hi>Lower</hi> for the improvement of transfuſing Blood out of one live Animal into another, com<g ref="char:EOLhyphen"/>municated in the Philoſophical Tranſ<g ref="char:EOLhyphen"/>actions of <hi>February</hi> the 11th. 1666.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Free Conſiderations about Subordi<g ref="char:EOLhyphen"/>nate Forms, being an <hi>Appendix</hi> to the Origine of Forms and Qualities publiſh'd laſt year, and reprinted with this, 1667. 8<hi rend="sup">o</hi>.</p>
+            <p>A Letter to the Author of the Philoſo<g ref="char:EOLhyphen"/>phical Tranſactions, giving an Informa<g ref="char:EOLhyphen"/>tion of ſome Experiments which he had made himſelf ſeveral years ago, by injecting acid Liquors into Blood, upon the occaſion of thoſe communicated by Signior <hi>Fracaſſati,</hi> in a Letter written from <hi>Oxford, October</hi> the 19th. 1667.</p>
+            <p>New Experiments concerning the Relation between Light and Air, (in ſhining Wood and Fiſh) in a Letter from <hi>Oxford</hi> to the Publiſher of the Phi<g ref="char:EOLhyphen"/>loſophical Tranſactions of <hi>January</hi> the 6th. 1668.</p>
+            <pb n="11" facs="tcp:48186:6"/>
+            <p>A Continuation of the ſame Letter in the Philoſophical Tranſactions of <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> the 10th. 1668.</p>
+            <p>A Continuation of new Experiments, Phyſico-Mechanical, touching the Spring and Weight of the Air, and their Ef<g ref="char:EOLhyphen"/>fects; The firſt Part. With a Diſcourſe of the Atmoſpheres of Conſiſtent Bodies, <hi>Oxford,</hi> 1669.</p>
+            <p>An Invention for eſtimating the Weight of Water with ordinary Bal<g ref="char:EOLhyphen"/>lances and Weights, in the Philoſophical Tranſactions of <hi>Auguſt</hi> the 16th. 1669.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Certain Philoſophical Eſſays and other Tracts, a ſecond Edition; with a Diſcourſe about the Abſolute reſt of Bo<g ref="char:EOLhyphen"/>dies, 4<hi rend="sup">o</hi>. <hi>London</hi> 1669. The firſt Edi<g ref="char:EOLhyphen"/>tion had been publiſhed, <hi>Anno</hi> 1662.</p>
+            <p>New Pneumatical Experiments about Reſpiration, upon Ducks, Vipers, Frogs, <hi>&amp;c.</hi> communicated in the Philoſophical Tranſactions of <hi>Auguſt</hi> 8. 1670.</p>
+            <p>A Continuation of the ſame Experi<g ref="char:EOLhyphen"/>ments in the Philoſophical Tranſacti<g ref="char:EOLhyphen"/>ons of <hi>September</hi> the 12th. 1670.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Tracts: About the Coſmical Qualities of Things: The Temperature of the Subterraneal and Submarine Regions, and the bottom of the Sea; together
+<pb n="12" facs="tcp:48186:7"/>with an Introduction to the Hiſtory of particular Qualities, 8<hi rend="sup">o</hi>. <hi>Oxford</hi> 1670.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Tracts: A Diſcovery of the admira<g ref="char:EOLhyphen"/>ble Rarefaction of the Air (even with<g ref="char:EOLhyphen"/>out Heat:) New Obſervations about the duration of the Spring of the Air. New Experiments touching the conden<g ref="char:EOLhyphen"/>ſation of the Air by mere Cold, and its compreſſion without Mechanical Engines, and the admirably differing extenſions of the ſame quantity of Air, rarefied and compreſs'd, 4<hi rend="sup">o</hi>. <hi>London</hi> 1670.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> An Eſſay about the Origine and Virtues of Gems, 8<hi rend="sup">o</hi>. <hi>London</hi> 1672.</p>
+            <p>Some Obſervations about ſhining Fleſh, both of Veal, and a Pullet, and that without any ſenſible Putrefaction in thoſe Bodies, communicated by way of Letter to the Publiſher of the Phi<g ref="char:EOLhyphen"/>loſophical Tranſactions, in the Tranſacti<g ref="char:EOLhyphen"/>ons of <hi>December</hi> the 16th. 1672.</p>
+            <p>A new Experiment concerning an effect of the varying weight of the Atmoſphere upon ſome Bodies in the Water, the Deſcription whereof was preſented to the Lord <hi>Broncker, Anno</hi> 1671. Suggeſting a conjecture, that the alterations of the very Weight of the
+<pb n="13" facs="tcp:48186:7"/>Air, may have conſiderable Operations, even upon Mens Sickneſs or Health, communicated in the Philoſophical Tranſactions of <hi>February</hi> the 24th. 1673.</p>
+            <p>Tracts: Containing new Experiments, touching the Relation between Flame and Air, and about Exploſions. An Hydroſtatical Diſcourſe, occaſion'd by ſome Objections of Dr. <hi>Henry Moor, &amp;c.</hi> to which is annexed an Hydroſta<g ref="char:EOLhyphen"/>tical Letter about a way of weighing Water in Water: New Experiments of the poſitive, or relative, levity of Bo<g ref="char:EOLhyphen"/>dies under Water: Of the Airs-Spring on Bodies under Water, and about the differing Preſſure of heavy Solids and Fluids, 8<hi rend="sup">o</hi>. <hi>London</hi> 1672.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Eſſays of the ſtrange Subtilty, great Efficacy, and determinate Nature of <hi>Effluviums;</hi> to which are annex'd new Experiments to make the Parts of Fire and Flame, Stable and Ponderable, with Experiments about arreſting and weighing of <hi>Igneous Corpuſcles;</hi> and a Diſcovery of the perviouſneſs of Glaſs to ponderable parts of Flame, 8<hi rend="sup">o</hi>. <hi>London</hi> 1673.</p>
+            <p>A Letter of <hi>September</hi> the 13th. 1673. concerning Ambergreece, and its being
+<pb n="14" facs="tcp:48186:8"/>a Vegetable Production, mention'd in the Philoſophical Tranſactions of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> the 6th. 1673.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Tracts: Obſervations about the ſaltneſs of the Sea: An account of the Statical Hygroſcope, and its Uſes, toge<g ref="char:EOLhyphen"/>ther with an Appendix about the force of the Airs Moiſture, and a Fragment about the Natural and Preternatural ſtate of Bodies. To all which is pre<g ref="char:EOLhyphen"/>mis'd a Sceptical Dialogue about the poſitive or privative Nature of Cold, 8<hi rend="sup">o</hi>. <hi>London</hi> 1674.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> A Diſcourſe about the Excellency and Grounds of the Mechanical Hy<g ref="char:EOLhyphen"/>potheſis, occaſionally propos'd to a Friend, annex'd to Another entituled, <hi>The Excellency of Theology, compar'd with Natural Philoſophy,</hi> 8<hi rend="sup">o</hi>. <hi>London</hi> 1674.</p>
+            <p>An account of the two ſorts of the <hi>Helmontian Laudanum,</hi> together with the way of the Noble Baron <hi>F. M. Van Helmont</hi> (Son to the famous <hi>John Baptiſta</hi>) of preparing his <hi>Laudanum,</hi> communicated in the Philoſophical Tranſactions of <hi>October</hi> 26th. 1674.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Tracts: Containing, 1. Suſpicions a<g ref="char:EOLhyphen"/>bout ſome hidden Qualities of the Air,
+<pb n="15" facs="tcp:48186:8"/>with an Appendix touching Celeſtial Magnets, and ſome other Particulars. 2. Animadverſions upon Mr. <hi>Hobbes</hi>'s <hi>Problemata de vacuo.</hi> 3. A Diſcourſe of the Cauſe of Attraction by Suction, 8<hi rend="sup">o</hi>. <hi>London</hi> 1674.</p>
+            <p>Some Phyſico-Theological conſide<g ref="char:EOLhyphen"/>rations about the poſſibility of the Re<g ref="char:EOLhyphen"/>ſurrection, annex'd to a Diſcourſe, en<g ref="char:EOLhyphen"/>tituled, <hi>The Reconcileableneſs of Reaſon and Religion,</hi> 8<hi rend="sup">o</hi>. <hi>London</hi> 1674/1675.</p>
+            <p>A Conjecture concerning the Blad<g ref="char:EOLhyphen"/>ders of Air, that are found in Fiſhes, communicated by <hi>A. J.</hi> and illuſtrated by an Experiment, ſuggeſted by the Author in the Philoſophical Tranſacti<g ref="char:EOLhyphen"/>ons of <hi>April</hi> the 26th. 1675.</p>
+            <p>A New Eſſay-Inſtrument, invented and deſcribed by the Author, together with the Uſes thereof, in three Parts.</p>
+            <p>The firſt ſhews the occaſion of making it, and the Hydroſtatical Principles 'tis founded on.</p>
+            <p>The ſecond deſcribes the Conſtructi<g ref="char:EOLhyphen"/>on of the Inſtrument.</p>
+            <p>The third repreſents the Uſes, which, as relating to Metals, are
+<list>
+                  <item>1. To diſcover, whether a propos'd Guinea be true, or counterfeit.</item>
+                  <pb n="16" facs="tcp:48186:9"/>
+                  <item>2. To examine divers other Gold Coins, and particularly half Guinea's.</item>
+                  <item>3. To examine the new Engliſh Crown Pieces of Silver.</item>
+                  <item>4. To eſtimate the goodneſs of Tin and Pewter.</item>
+                  <item>5. To eſtimate Alloys of Gold and Silver, and ſome other Metalline Mix<g ref="char:EOLhyphen"/>tures. All this maketh up the Philoſo<g ref="char:EOLhyphen"/>phical Tranſactions of <hi>June</hi> 21. 1675.</item>
+               </list>
+            </p>
+            <p>Ten new Experiments about the weaken'd Spring, and ſome unobſerved Effects, of the Air, where occur not only ſeveral Tryals to diſcover, whether the Spring of the Air, as it may divers ways be increas'd, ſo may not by other ways than Cold or Dilatation be weaken'd; but alſo ſome odd Experiments to ſhew the change of Colours producible in ſome Solutions and Precipitations by the Operation of the Air, communicated in the Philoſophical Tranſactions of <hi>December</hi> the 27th. 1675.</p>
+            <p>An Experimental Diſcourſe of Quick<g ref="char:EOLhyphen"/>ſilver growing hot with Gold, Engliſh and Latin, communicated in the Philo<g ref="char:EOLhyphen"/>ſophical Tranſactions of <hi>February</hi> 21. 1676.</p>
+            <pb n="17" facs="tcp:48186:9"/>
+            <p>Experiments, Notes, <hi>&amp;c.</hi> about the Mechanical Origine or Production of divers particular Qualities, amongſt which is inſerted a Diſcourſe of the Imperfections of the Chymiſts Do<g ref="char:EOLhyphen"/>ctrine of Qualities, together with ſome Reflections upon the Hypotheſis of <hi>Alcali</hi> and <hi>Acidum,</hi> 8<hi rend="sup">o</hi>. <hi>London</hi> 1676.</p>
+            <p>This Diſcourſe comprehends Notes, <hi>&amp;c.</hi> about the Mechanical Origine and Production Of Cold.</p>
+            <list>
+               <item>Of Heat.</item>
+               <item>Of Taſts.</item>
+               <item>Of Odours.</item>
+               <item>Of Volatility.</item>
+               <item>Of Fixtneſs.</item>
+               <item>Of Corroſiveneſs.</item>
+               <item>Of Corroſibility.</item>
+               <item>Of Chymical Precipitation.</item>
+               <item>Of Magnetical Qualities.</item>
+               <item>Of Electricity.</item>
+            </list>
+            <p>New Experiments about the ſuper<g ref="char:EOLhyphen"/>ficial Figures of Fluids, eſpecially of Liquors contiguous to other Liquors: Likely to conduce much to the Phyſical Theory of the grand Syſtem of the World, communicated in the Philoſo<g ref="char:EOLhyphen"/>phical Tranſactions of <hi>January</hi> the 29th. 1676/1677.</p>
+            <pb n="18" facs="tcp:48186:10" rendition="simple:additions"/>
+            <p>A Continuation of the ſame Experi<g ref="char:EOLhyphen"/>ments in the Philoſophical Tranſactions of <hi>February</hi> the 26th. 1676/1677.</p>
+            <p>The Sceptical Chymiſt, of Chymico-Phyſical Paradoxes, touching the Expe<g ref="char:EOLhyphen"/>riments whereby vulgar Spagyriſts are wont to endeavour to evince their Salt, Sulphur and Mercury to be the true Principles of Things; to which in this Second Edition are ſubjoyn'd divers Experiments and Notes about the Pro<g ref="char:EOLhyphen"/>ducibleneſs of Chymical Principles, 8<hi rend="sup">o</hi>. <hi>Oxford</hi> 1680.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> A Second Continuation of new Expe<g ref="char:EOLhyphen"/>riments Phyſico-Mechanical, in which, various Experiments, touching the Spring of the Air, either compreſs'd or artificial, are contain'd, with a De<g ref="char:EOLhyphen"/>ſcription of new Engines to perform them, 1680.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> The <hi>Aerial Noctiluca,</hi> or ſome new <hi>Phoenomena,</hi> and a Proceſs of a factiti<g ref="char:EOLhyphen"/>ous ſelf-ſhining Subſtance, 8<hi rend="sup">o</hi>. <hi>London</hi> 1680.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> The Glacial or <hi>Icy Noctiluca,</hi> with a Chymical Paradox founded on new Experiments, whence it may be made probable, that Chymical Principles may
+<pb n="19" facs="tcp:48186:10" rendition="simple:additions"/>be converted one into another; 8<hi rend="sup">o</hi>. <hi>Lon<g ref="char:EOLhyphen"/>don</hi> 1680.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Memoirs for the Natural Hiſtory of Human Blood, eſpecially the Spirit of that Liquor, <hi>London</hi> 1684.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Experiments and Conſiderations a<g ref="char:EOLhyphen"/>bout the Poroſity of Bodies in two Eſſays: The former of the Porouſneſs of Animal Bodies, the other of the Po<g ref="char:EOLhyphen"/>rouſneſs of Solid Bodies, 8<hi rend="sup">o</hi>. <hi>London</hi> 1684.</p>
+            <p>Short Memoirs for the Natural Ex<g ref="char:EOLhyphen"/>perimental Hiſtory of Mineral Waters, 8<hi rend="sup">o</hi>. 1684/1685.</p>
+            <p>An Hiſtorical account of a ſtrange<g ref="char:EOLhyphen"/>ly ſelf-moving Liquor, communicated in the Philoſophical Tranſactions of <hi>November</hi> the 26th. 1685.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L"/> Of the Reconcileableneſs of Speci<g ref="char:EOLhyphen"/>fick Medicines to the Corpuſcular Philoſophy, to which is annex'd a Diſcourſe about the advantages of the uſe of Simple Medicines, propos'd by way of Invitation to it, 8<hi rend="sup">o</hi>. <hi>London</hi> 1685.</p>
+            <p>An Eſſay of the great Effects of Lan<g ref="char:EOLhyphen"/>guid and unheeded Motion. To which is annex'd an Experimental Diſcourſe of ſome unheeded Cauſes of the Sa<g ref="char:EOLhyphen"/>lubrity
+<pb n="20" facs="tcp:48186:11"/>and Inſalubrity of the Air and its Effects, 8<hi rend="sup">o</hi>. <hi>London</hi> 1685.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="L*"/> A free Inquiry into the vulgarly re<g ref="char:EOLhyphen"/>ceiv'd Notion of Nature, in an Eſſay addreſs'd to a Friend, 8<hi rend="sup">o</hi>. <hi>London</hi> 1685/1686.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="*"/> A Diſquiſition about the Final Cauſes of Natural Things. With an Appendix of ſome Uncommon Ob<g ref="char:EOLhyphen"/>ſervations about vitiated ſight, 8o. <hi>London</hi> 1687/1688.</p>
+            <div type="part">
+               <pb n="21" facs="tcp:48186:11"/>
+               <head>Advertiſement.</head>
+               <p>
+                  <hi>Becauſe among thoſe that willingly read the Authors Writings, there are ſome that reliſh thoſe moſt, (as moſt ſuitable to their Genius, addicted to Religious Studies) that treat of Matters rela<g ref="char:EOLhyphen"/>ting to Divinity; the Publiſher thinks fit to gratifie them with a Catalogue of thoſe Theological Books that paſs for Mr.</hi> Boyles, <hi>becauſe they were aſcrib'd to him, and never poſitively diſown'd by him; thô ſuch of them as are mark'd with an Aſterisk, came abroad without having his Name prefix'd to them.</hi>
+               </p>
+               <p>SEraphic Love, five or ſix times printed, but firſt publiſh'd in the year 1660. 8<hi rend="sup">o</hi>.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="L"/> Conſiderations about the Style of the Scripture, whereof the Firſt Edition was publiſh'd in the year 1662 in Eng<g ref="char:EOLhyphen"/>liſh, and afterwards turn'd into, and ſeveral times printed in, Latin, 8<hi rend="sup">o</hi>.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="*"/> Occaſional Reflections on ſeveral Sub<g ref="char:EOLhyphen"/>jects, with a Preliminary Diſcourſe of the Way of meditating there Exem<g ref="char:EOLhyphen"/>plifi'd;
+<pb n="22" facs="tcp:48186:12"/>Firſt publiſh'd in the year 1665, and afterwards turn'd into Latin, but not yet printed in that Language, 8<hi rend="sup">o</hi>.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="*"/> Of the Excellency of the Study of Theology compar'd with that of Na<g ref="char:EOLhyphen"/>tural Philoſophy. Printed in the year 1674. 8<hi rend="sup">o</hi>.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="*"/> Conſiderations about the Recon<g ref="char:EOLhyphen"/>cileableneſs of Reaſon and Religion. To which is annex'd a Diſcourſe about the Poſſibility of the Reſurrection. Printed in the year 1675. 8<hi rend="sup">o</hi>.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="*"/> A Treatiſe of Things above Reaſon. To which are annex'd ſome Advices about things that are ſaid to tranſcend Reaſon. Printed in the year 1681, in Engliſh, and afterwards tranſlated in<g ref="char:EOLhyphen"/>to Latin, but not yet printed in that Language, 8o.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="L*"/> Of the Veneration that Mans Intel<g ref="char:EOLhyphen"/>lect owes to God. Printed in the year 1685.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="*"/> The Martyrdom of <hi>Theodora</hi> and of <hi>Didymus. London</hi> 1687.</p>
+               <trailer>The End.</trailer>
+               <pb facs="tcp:48186:12"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
